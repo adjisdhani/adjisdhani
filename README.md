@@ -36,6 +36,7 @@ I’m always eager to learn new technologies, solve complex problems, and contri
 - **LinkedIn**: [linkedin.com/in/adjis-ramadhani-utomo/](https://www.linkedin.com/in/adjis-ramadhani-utomo/)
 - **Email**: [adjisramadhani08@gmail.com](mailto:adjisramadhani08@gmail.com)
 
+## 🤝 Let's Connect!
 Feel free to reach out if you're interested in collaborating on projects, discussing new technologies, or just having a chat about programming! I'm always open to new opportunities.
 
 ---
