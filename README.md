@@ -8,6 +8,7 @@ I’m always eager to learn new technologies, solve complex problems, and contri
 
 ### **Backend Development:**
 - **PHP**: Expertise in building robust applications using **Laravel** and **CodeIgniter**.
+- **Javascript**: Currently diving deep into **Node.js** to build fast, concurrent applications.
 - **Golang**: Currently diving deep into **Golang** to build fast, concurrent applications.
 - **C++**: Developing performance-critical applications and algorithms using **C++**.
 
@@ -19,6 +20,7 @@ I’m always eager to learn new technologies, solve complex problems, and contri
 ### **Frontend Development:**
 - **JavaScript**: Building dynamic and interactive user interfaces.
 - **Ext JS**: Experienced in using **Ext JS** for building data-driven web applications.
+- **TypeScript**: Building dynamic and interactive user interfaces.
 
 ### **Other Skills:**
 - **API Development**: Designing and implementing RESTful APIs.
