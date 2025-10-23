@@ -24,9 +24,12 @@ I’m always eager to learn new technologies, solve complex problems, and contri
 
 ### **Other Skills:**
 - **API Development**: Designing and implementing RESTful APIs.
-- **Unit Testing**: Writing tests with **PHPUnit**, **GoTest**, and other testing frameworks.
+- **Unit Testing**: Writing tests with **PHPUnit**, and other testing frameworks.
 - **Version Control**: Familiar with **Git** for source control and collaboration.
-- **CI/CD**: Setting up continuous integration and deployment pipelines using **GitHub Actions** and **Jenkins**.
+- **CI/CD**: Setting up continuous integration and deployment pipelines.
+- **Docker** : Using its containers to synchronize multiple systems into a single entity
+- **Redis** : Save the same cache or data so that application performance can run faster
+- **AWS S3** : Same as redis but to store credential data such as files, photos, etc.
 
 ## 📈 **GitHub Stats**
 
