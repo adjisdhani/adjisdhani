@@ -1,6 +1,6 @@
 # Hi, I'm Adjis 👋
 
-I'm a passionate **Software Engineer** with over **6 years of experience** in building scalable, high-performance web applications and software solutions. I specialize in **PHP** and modern frameworks, with hands-on experience in backend development, database management, and more.
+I'm a passionate **Software Engineer** with over **6 years of experience** in building scalable, high-performance web applications and software solutions. I specialize in **several technology** and modern frameworks, with hands-on experience in backend development, database management, and more.
 
 I’m always eager to learn new technologies, solve complex problems, and contribute to open-source projects.
 
