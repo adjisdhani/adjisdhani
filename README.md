@@ -11,7 +11,8 @@ I’m always eager to learn new technologies, solve complex problems, and contri
 - **Javascript**: Currently diving deep into **Node.js** to build fast, concurrent applications.
 - **Golang**: Currently diving deep into **Golang** to build fast, concurrent applications.
 - **.Net**: Developing backend applications and algorithms using **.Net**.
-- **.Nest.Js**: Developing backend applications and algorithms using **.Nest.Js**.
+- **Nest.Js**: Developing backend applications and algorithms using **Nest.Js**.
+- **Phyton**: Developing backend applications and algorithms using **Phyton**.
 
 ### **Databases:**
 - **MySQL**: Proficient in designing and optimizing relational databases.
