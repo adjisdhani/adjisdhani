@@ -10,7 +10,8 @@ I’m always eager to learn new technologies, solve complex problems, and contri
 - **PHP**: Expertise in building robust applications using **Laravel** and **CodeIgniter**.
 - **Javascript**: Currently diving deep into **Node.js** to build fast, concurrent applications.
 - **Golang**: Currently diving deep into **Golang** to build fast, concurrent applications.
-- **C++**: Developing performance-critical applications and algorithms using **C++**.
+- **.Net**: Developing backend applications and algorithms using **.Net**.
+- **.Nest.Js**: Developing backend applications and algorithms using **.Nest.Js**.
 
 ### **Databases:**
 - **MySQL**: Proficient in designing and optimizing relational databases.
@@ -30,12 +31,8 @@ I’m always eager to learn new technologies, solve complex problems, and contri
 - **Docker** : Using its containers to synchronize multiple systems into a single entity
 - **Redis** : Save the same cache or data so that application performance can run faster
 - **AWS S3** : Same as redis but to store credential data such as files, photos, etc.
-
-## 📈 **GitHub Stats**
-
-![Adjis Dhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adjisdhani&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adjisdhani&layout=compact&langs_count=20)
+- **Project Management**
+- **Product Manager**
 
 ## 🔗 **Connect with Me**
 - **LinkedIn**: [linkedin.com/in/adjis-ramadhani-utomo/](https://www.linkedin.com/in/adjis-ramadhani-utomo/)
